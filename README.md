@@ -15,7 +15,7 @@ My name is Olga and I'm a frontend developer.
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Olpom&hide=contribs&show_icons=true">
   <img  align="left" height="160" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Olpom&hide=contribs,issues&show_icons=true" />
-</a>
+</a>   
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact">
   <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact" />
 </a>
