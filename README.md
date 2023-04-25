@@ -14,7 +14,7 @@ My name is Olga and I'm a frontend developer.
 
 📊 My stats:
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Olpom/badges/large)](https://www.codewars.com/users/Olpom)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Olpom/badges/large?theme=light)](https://www.codewars.com/users/Olpom)
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Olpom&hide=contribs&show_icons=true">
