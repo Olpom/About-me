@@ -14,14 +14,14 @@ My name is Olga and I'm a frontend developer.
 
 📊 My stats:
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Olga%20Kozhevina/badges/small?theme=light)](https://www.codewars.com/users/Olpom)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Olga%20Kozhevina/badges/small?theme=light)](https://www.codewars.com/users/Olga%20Kozhevina)
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Olpom&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Olpom&hide=issues&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=olga-kozhevina&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=olga-kozhevina&hide=issues&show_icons=true" />
 </a>   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-kozhevina&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olga-kozhevina&layout=compact" />
 </a>
 </div>
 
